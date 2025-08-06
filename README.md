@@ -1,12 +1,12 @@
-# CV_Example
+# CV_BrigithCastellanos
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Brigith Daniela Castellanos Martinez
+**Profesión:**Analista Y Desarrolladora De Software
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** 3138523870
+- **Email:** Bridanacasmar222@gmail.com
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
