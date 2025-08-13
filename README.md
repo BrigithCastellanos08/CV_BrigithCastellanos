@@ -5,67 +5,30 @@
 **Profesión:**Analista Y Desarrolladora De Software
 
 ## 📞 Contacto
-- **Teléfono:** 3138523870
-- **Email:** Bridanacasmar222@gmail.com
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Teléfono:**+57 3138523870
+- **Email:**[bridanacasmar222@gmail.com]
+- **LinkedIn:** [lhttps://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav]
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Almacen** _(2024)_
+- Auxiiar de ventas
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA** _(2025 - ACTUALIDAD)_
+- Aprendíz de análisis y desarrollo de software.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Trabajo en equipo**
+- **Creatividad**
+- **Capacidad analtica**
 
----
 
-## 🎨 Formatos y Fuentes Disponibles
 
-### **Negrita:**
-- `**Texto en negrita**` → **Texto en negrita**
 
-### **Cursiva:**
-- `*Texto en cursiva*` → *Texto en cursiva*
-- `_Texto en cursiva_` → _Texto en cursiva_
 
-### **Combinado:**
-- `***Texto en negrita y cursiva***` → ***Texto en negrita y cursiva***
 
-### **Encabezados:**
-- `# Encabezado 1`
-- `## Encabezado 2`
-- `### Encabezado 3`
 
-### **Citas:**
-> Esto es una cita
-
-### **Código:**
-- `` `código en línea` `` → `código en línea`
-- ```
-  Código en bloque
-  ```
-
-### **Listas:**
-- `- Elemento de lista`
-- `1. Elemento numerado`
-
-### **Enlaces:**
-- `[Texto del enlace](https://ejemplo.com)` → [Texto del enlace](https://ejemplo.com)
-
-### **Imágenes:**
-- `![Texto alternativo](https://ejemplo.com/imagen.jpg)`
-
-### **Tablas:**
-| Encabezado 1 | Encabezado 2 |
-|-------------|-------------|
 | Dato 1     | Dato 2      |
 
 ---
