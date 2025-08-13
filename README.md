@@ -7,7 +7,7 @@
 ## 📞 Contacto
 - **Teléfono:**+57 3138523870
 - **Email:**[bridanacasmar222@gmail.com]
-- **LinkedIn:** [lhttps://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav]
+- **LinkedIn:** [lhttps://www.linkedin.com/metrk=p_mwlite_feed-secondary_nav]
 
 ## 🏢 Experiencia Laboral
 ### **Almacen** _(2024)_
